@@ -1,0 +1,28 @@
+.headerMain {
+  display: flex;
+  background-color: black;
+  margin: 5px auto;
+}
+.iconSvg {
+  width: 50px;
+  height: 50px;
+  margin: 15px 10px 15px 20px;
+  background-color: white;
+  border-radius: 25px;
+}
+.headerInput {
+  width: 400px;
+  height: 50px;
+  margin: 15px 20px 15px 10px;
+  padding: 0px 50px;
+  border-radius: 5px;
+}
+body {
+  margin: 0;
+}
+.searchIcon {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  margin: 25px 0px 50px 100px;
+}
